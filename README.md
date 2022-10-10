@@ -20,26 +20,17 @@ A horizontal bar chart has been created with a dropdown menu to display the top 
 ### Bubble Chart
 A bubble chart has been created that displays each sample.
 
-. otu_ids has been used for the x values.
-. sample_values has been used for the y values.
-. sample_values has been used for the marker size.
-. otu_ids has been used for the marker colours.
-. otu_labels has been used for the text values.
+1. otu_ids has been used for the x values.
+2. sample_values has been used for the y values.
+3. sample_values has been used for the marker size.
+4. otu_ids has been used for the marker colours.
+5. otu_labels has been used for the text values.
+
+### Demographic Information
+The sample metadata, i.e., an individual's demographic information hasbeen displayed.
+Each key-value pair from the metadata JSON object has been displayed on the page.
 
 
+All plots are updated when a new sample is selected. 
 
-
-
-Display the sample metadata, i.e., an individual's demographic information.
-
-
-Display each key-value pair from the metadata JSON object somewhere on the page.
-
-
-
-
-Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
-
-
-
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+The app is deployed to a free static page hosting service, such as GitHub Pages. 
