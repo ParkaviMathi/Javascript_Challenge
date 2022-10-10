@@ -13,9 +13,9 @@ The D3 library is used to read in samples.json from the URL https://2u-data-curr
 ### Horizontal Bar Chart
 A horizontal bar chart has been created with a dropdown menu to display the top 10 OTUs found in that individual.
 
-. sample_values has been used as the values for the bar chart.
-. otu_ids has been used as the labels for the bar chart.
-. otu_labels has been used as the hover text for the chart.
+1. sample_values has been used as the values for the bar chart.
+2. otu_ids has been used as the labels for the bar chart.
+3. otu_labels has been used as the hover text for the chart.
 
 ### Bubble Chart
 A bubble chart has been created that displays each sample.
